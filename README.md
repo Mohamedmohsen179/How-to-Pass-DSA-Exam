@@ -10,7 +10,7 @@ Click the image above to watch the video tutorial on YouTube.
 This repository contains materials To How to Pass DSA Exam FCI-KFS Level 2 
 
 ## Table of Contents
-- [Array](#Array)
+- [Array](Array)
 - [LinkedList](#LinkedList)
 - [Stack](#Stack)
 - [Queue](#Queue)
