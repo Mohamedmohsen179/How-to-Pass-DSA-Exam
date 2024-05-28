@@ -7,13 +7,13 @@
 Click the image above to watch the video tutorial on YouTube.
 
 ## Introduction
-This repository contains materials and resources to help you pass your DSA (Data Structures and Algorithms) exam.
+This repository contains materials To How to Pass DSA Exam FCI-KFS Level 2 
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Study Materials](#study-materials)
-- [Practice Problems](#practice-problems)
-- [Tips and Tricks](#tips-and-tricks)
+- [Array](#Array)
+- [LinkedList](#LinkedList)
+- [Stack](#Stack)
+- [Queue](#Queue)
 
 ## Study Materials
 - Lecture notes
